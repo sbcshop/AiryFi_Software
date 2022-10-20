@@ -24,4 +24,12 @@ AiryFi consists of ESP8266-12E, USB type-C Port for charging and communication, 
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware_rear.png" />
 
+### ESP8266
+It is a SoC (System on Chip) WiFi microchip for TCP/IP having capability of a microcontroller. It has many general purpose input output(GPIO) pins for interfacing different types of sensors and other monitoring devices.
+
+### USB Type-C Port
+For charging and communication with the AiryFy board
+
+
+
 
