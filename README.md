@@ -18,7 +18,7 @@
 * Boost convertor of 3.7 to 5 volt
 
 ### Hardware Overview
-Let’s take a closer look at our AiryFi board, and see what other hardwares are present on this board:
+AiryFi is consists of ESP8266-12E, USB C Port USB port for charging and communication, CP2102, Battery Connector, On/Off switch, Flash, PMSA003 sensor selection jumper, BME280 and many more. lets take a closer look on our AiryFi board, and see what other hardwares are present on it:
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware.png" />
 
