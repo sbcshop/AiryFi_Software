@@ -21,4 +21,6 @@
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware.png" />
 
-<img src ="" />
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware_rear.png" />
+
+
