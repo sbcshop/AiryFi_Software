@@ -9,7 +9,7 @@
 * BME 280 sensor for temperature and humidity monitoring
 * ESP8266-12
 * Type-C charging 
-* 
+
 ### Specifications
 
 * Battery charging 
