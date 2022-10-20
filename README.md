@@ -18,7 +18,7 @@
 * Boost convertor of 3.7 to 5 volt
 
 ### Hardware Overview
-Let’s take a closer look at our AiryFi board, and see what other hardwares are present on this board
+Let’s take a closer look at our AiryFi board, and see what other hardwares are present on this board:
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware.png" />
 
