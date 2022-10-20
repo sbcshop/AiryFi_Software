@@ -26,22 +26,17 @@ AiryFi consists of ESP8266-12E, USB type-C Port for charging and communication, 
 
 ### ESP8266
 It is a SoC (System on Chip) WiFi microchip for TCP/IP having capability of a microcontroller. It has many general purpose input output(GPIO) pins for interfacing different types of sensors and other monitoring devices.
-
 ### USB Type-C Port
 For charging and communication with the AiryFy board
-
 ### CP2102
 The CP2102/9 is a highly-integrated USB-to-UART Bridge Controller providing a simple solution for updating RS232 designs to USB using a minimum of components and PCB space. It is a driver IC for interfacing between USB to our ESP8266.
-
 ### Sensor Selection Jumper
 This jumper is provided to interfacing  between ESP and PMS sensor for displaying PMS sensor data
-
 ### Reset and Flash Button
 Reset button is provided for resetting ESP8266 and so this board. Flash button is for flashing or updating firmware in ESP8266 chip.
-
 ### Battery Connector and ON/OFF
 Battery connector is used for connecting a 3.7volt battery for powering-up AiryFi and this connector also works as the battery charging port.
-ON/OFF switch is used for toggle ON and OFF this board according to our need to save battery power consumption..  
+ON/OFF switch is used for toggle ON and OFF this board according to our need to save battery power consumption.
 
 ### Pinouts/Reserved of pins of AiryFy
 
