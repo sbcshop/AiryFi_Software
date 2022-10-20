@@ -19,4 +19,6 @@
 
 ### Hardware Overview
 
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware.png" />
+
 <img src ="" />
