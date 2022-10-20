@@ -40,3 +40,6 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 ### Pinouts/Reserved of pins of AiryFy
 
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_pinouts.png" />
+
+
