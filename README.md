@@ -7,7 +7,7 @@ AiryFi is an open-source portable sensor that can deliver the quantity and mass 
 * On board TFT display 
 * Battery Powered
 * BME 280 sensor for temperature and humidity monitoring
-* ESP8266-12
+* ESP8266-12E
 * Type-C charging 
 
 ### Specifications
