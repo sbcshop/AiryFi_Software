@@ -45,7 +45,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_pinouts.png" />
 
 
-## Steps To Setup The RoundyFi
+### Steps To Setup the AiryFi
 1. Download and install Arduino IDE 
    https://www.arduino.cc/en/software
 
