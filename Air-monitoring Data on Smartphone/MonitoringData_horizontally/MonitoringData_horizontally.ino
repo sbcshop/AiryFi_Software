@@ -1,3 +1,6 @@
+//This is the example file for displaying AiryFi data on Samartphone 
+//Developed by sbcomponents 
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFi.h>
 #include <Arduino_GFX_Library.h>
