@@ -78,7 +78,6 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
  5. Install all libraries which is mention below
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
-    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img15.JPG" />
     
  6. Choose Port and ESP8266 board from board manager
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img16.png" />
