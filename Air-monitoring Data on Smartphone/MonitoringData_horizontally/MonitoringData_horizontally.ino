@@ -1,4 +1,4 @@
-//This is the example file for displaying AiryFi data on Samartphone 
+//This is the example file for displaying AiryFi data on Samartphone in Horizontal screen
 //Developed by sbcomponents 
 
 #include <ESP8266WiFi.h>
