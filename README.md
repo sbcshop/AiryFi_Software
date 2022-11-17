@@ -50,9 +50,11 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
    https://www.arduino.cc/en/software
 
 2. Open Arduino IDE
+
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img6.JPG" />
 
 3. Now install Esp8266 board, for this go to file -> preferences
+
    <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img7.png" />
   
    * Paste two urls,in "additional board manager urls"
@@ -64,22 +66,30 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img8.png" />
    
    * Now install ESP8266 board, go tools -> boards -> board manager
+   
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img9.png" />
      
    * Write ESP8266 in search bar
+   
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img10.png" />
     
    * Lets, check boards are install or not, go to tools -> boards
+   
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img11.png" />
   
  4. Now go to sketch -> include library -> manage libraries
+ 
      <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img12.png" />
      
  5. Install all libraries which is mention below
+ 
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
+    
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
     
  6. Choose Port and ESP8266 board from board manager
+ 
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img16.png" />
+    
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" />
 
