@@ -54,7 +54,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 * During uploading the latest firmware to NodeMCU please make sure that sensor selection jumper is open as shown in below image
 
-#### jumper image
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121130128.jpg" />
 
 * After uploading firmware, connect the sensor selection jumper as it is for successful reading of sensor on running code in our AiryfI board.
 
