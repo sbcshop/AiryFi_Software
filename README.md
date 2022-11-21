@@ -56,8 +56,9 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121130128.jpg" />
 
-* After uploading firmware, connect the sensor selection jumper as it is for successful reading of sensor on running code in our AiryfI board.
+* After uploading firmware, connect the sensor selection jumper as it is for successful reading of sensor on running code in our AiryfI board
 
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121122533.jpg" />
 
 ### Steps To Setup the AiryFi
 1. Download and install Arduino IDE 
@@ -107,5 +108,6 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
     
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" />
 
-conti...
+
+
 
