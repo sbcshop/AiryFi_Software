@@ -44,9 +44,16 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_pinouts.png" />
 
-### Uploading Firmaware:
-For uploading latest frimware to ESP8266 module please click on below link ....
+### Uploading Firmaware
 
+* For uploading latest frimware to ESP8266 module please click on below link
+ https://github.com/nodemcu/nodemcu-flasher
+
+* During uploading the latest firmware to NodeMCU please make sure that sensor selection jumper is open as shown in below image
+
+#### jumper image
+
+* After uploading firmware, connect the sensor selection jumper as it is for successful reading of sensor on running code in our AiryfI board.
 
 
 ### Steps To Setup the AiryFi
