@@ -7,7 +7,7 @@ For display your AiryFi Data on your moblile phone you have to download and inst
 * For getting data on your phone have to click on "Press button to know sensor reading" and after that click on "Get Data" (same button)
 * For keep updating your sensor data, you have to click on Get Data periodically, and of course you have to upload horizontally code in AiryFi.
 
-<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG-20221121-WA0001.jpg" />
+   <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG-20221121-WA0001.jpg" />
 
 * Same as for vertically data on your moblile phone as well as on LCD display, you only have to upload code of vertically display data.
 
