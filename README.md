@@ -40,6 +40,7 @@ Reset button is provided for resetting ESP8266 and so this board. Flash button i
 Battery connector is used for connecting a 3.7volt battery for powering-up AiryFi and this connector also works as the battery charging port.
 ON/OFF switch is used for toggle ON and OFF this board according to our need to save battery power consumption.
 
+#### Attention:
 * Please make sure that powering battery of AiryFi board should not be more than 3.7volt. voltage of your baord more than 3.7volt can damage your AiryFi board.
  
 ### Pinouts/Reserved of pins of AiryFy
