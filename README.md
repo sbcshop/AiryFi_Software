@@ -41,7 +41,9 @@ Battery connector is used for connecting a 3.7volt battery for powering-up AiryF
 ON/OFF switch is used for toggle ON and OFF this board according to our need to save battery power consumption.
 
 #### Attention:
-* Please make sure that powering battery of AiryFi board should not be more than 3.7volt. voltage of your baord more than 3.7volt can damage your AiryFi board.
+* Please make sure that powering battery of AiryFi board should not be more than 3.7volt. voltage of your baord more than 3.7volt can damage your AiryFi board. The connection should be proper (+ive and -ive terminal will be in right manner).
+
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121122934.jpg" />
  
 ### Pinouts/Reserved of pins of AiryFy
 
