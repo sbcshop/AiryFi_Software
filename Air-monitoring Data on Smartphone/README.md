@@ -9,7 +9,7 @@ For display your AiryFi Data on your moblile phone you have to download and inst
 
    <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG-20221121-WA0001.jpg" />
 
-* Same as for vertically data on your moblile phone as well as on LCD display, you only have to upload code of vertically display data.
+* Same as for vertically data on your moblile phone as well as on LCD display, you only have to upload code "MonitoringData_vertically" for display data vertically.
 
 
 
