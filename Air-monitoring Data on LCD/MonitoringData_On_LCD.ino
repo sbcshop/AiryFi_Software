@@ -1,3 +1,6 @@
+//This is the example code of display data on provided on on-baord LCD without any other connectivity
+//Developed by sbcomponents
+
 
 #include <Arduino_GFX_Library.h>
 #include "PMS.h"
