@@ -110,6 +110,11 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
     
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" />
 
+### Working
+
+* For Display the sensors data simply on LCD without internet, upload the code "Air-monitoring Data On LCD".
+*
+*
 
 
 
