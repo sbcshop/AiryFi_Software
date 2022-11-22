@@ -2,11 +2,8 @@
 //Developed by sbcomponents
 
 #include <ESP8266WiFi.h>
-#include <ESP8266WiFi.h>
 #include <Arduino_GFX_Library.h>
 #include "PMS.h"
-//#include <SoftwareSerial.h>
-//SoftwareSerial pmsaSer(2,0); //14 rx for dubug
 
 PMS pms(Serial);
 PMS::DATA data;
