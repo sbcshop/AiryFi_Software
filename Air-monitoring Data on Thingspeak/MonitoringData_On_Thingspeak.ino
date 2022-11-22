@@ -1,4 +1,6 @@
-// send data to thingspeak
+//This is the example code of display data on provided on-baord LCD as well as to send data on Thingspeak
+//Developed by sbcomponents
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFi.h>
 #include <Arduino_GFX_Library.h>
@@ -31,11 +33,11 @@ Arduino_GFX *gfx = new Arduino_ST7789(bus, 16 /* RST */, 0 /* rotation */, true 
 /*******************************************************************************
  * End of Arduino_GFX setting
  ******************************************************************************/
-const char* ssid = "Tech SB_2G"; //Tech SB_2G
-const char* password = "jc643111h@";//jc643111
+const char* ssid = " ";       //Enter your ssid name
+const char* password = " ";  //Enter your password
 
-String apiKey = "2KWL4NUT0MEA8I97";
-const char* server = "api.thingspeak.com";
+String apiKey = "2KWL4NUT0MEA8I97";  //Enter your API key
+const char* server = "api.thingspeak.com"; //Enter your server name
 
 WiFiClient client;
 
