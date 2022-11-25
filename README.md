@@ -20,9 +20,7 @@ AiryFi is an open-source portable sensor that can deliver the quantity and mass 
 ### Hardware Overview
 AiryFi consists of ESP8266-12E, USB type-C Port for charging and communication, CP2102, Battery Connector, On/Off switch, Flash, PMSA003 sensor selection jumper, BME280 and many more. let's take a closer look on our AiryFi board, and see what other hardwares are present on it:
 
-<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware.png" />
-
-<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFi_hardware_rear.png" />
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFI.png" />
 
 ### ESP8266
 It is a SoC (System on Chip) WiFi microchip for TCP/IP having capability of a microcontroller. It has many general purpose input output(GPIO) pins for interfacing different types of sensors and other monitoring devices. 
