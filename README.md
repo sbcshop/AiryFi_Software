@@ -1,6 +1,6 @@
 # AiryFi
 
-<img src ="https://cdn.shopify.com/s/files/1/1217/2104/products/03_3ec113af-3d61-4b44-b423-2ec275826699.png?v=1669110536&width=500" /> <img src = "https://cdn.shopify.com/s/files/1/1217/2104/products/Enclosure02.png?v=1669111302&width=500" />
+<img src ="https://cdn.shopify.com/s/files/1/1217/2104/products/03_3ec113af-3d61-4b44-b423-2ec275826699.png?v=1669110536&width=400" /> <img src = "https://cdn.shopify.com/s/files/1/1217/2104/products/Enclosure02.png?v=1669111302&width=400" />
 
 AiryFi is an open-source portable sensor that can deliver the quantity and mass of suspended particulates. It includes a PMSA003 sensor that uses a digital output with a 5V working voltage to offer information on suspended particulate matter (PM1.0, PM2.5, and PM10) in the air per unit volume. 
 
