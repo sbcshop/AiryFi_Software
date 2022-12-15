@@ -110,7 +110,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
     
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img17.png" />
 
-### Working
+## Working Guide with AiryFi
 
 * For Display the sensors data simply on LCD without internet, upload the code of directory "Air-monitoring Data On LCD".
 * To see your sensor data on your smartphone open the directory "Air-monitoring Data on Smartphone" and setup your device according to provided instruction in it.
