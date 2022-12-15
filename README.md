@@ -117,7 +117,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 ## Documentation
 
-* [IoTFi-2G Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
+* [AiryFi Hardware](https://github.com/sbcshop/AiryFi_Hardware)
 * [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
@@ -127,10 +127,13 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 ## Related Products
 
-* [IoTFi-4G](https://shop.sb-components.co.uk/products/iotfi-2g-4g-iot-board-based-on-rp2040?variant=40430002307155) - Our other GSM Based product in 4G version
+* [SquaryFi](https://shop.sb-components.co.uk/collections/raspberry-pi-pico/products/squary?variant=40443840921683)
 
- ![IoTFi-4G](https://cdn.shopify.com/s/files/1/1217/2104/products/Untitled-2.png?v=1669123121&width=400)
-
+ ![SquaryFi](https://cdn.shopify.com/s/files/1/1217/2104/products/2_12d19ffa-bcda-47bf-8ea9-bb76fc40aee3.png?v=1670307456&width=300)
+ 
+ * [Roundy](https://shop.sb-components.co.uk/products/roundy?variant=39785171681363) - 1.28" Round LCD version based on ESP8266 and RP2040
+ 
+ ![Roundy](https://cdn.shopify.com/s/files/1/1217/2104/products/roundypi.png?v=1650457581&width=300)
 
 ## Product License
 
@@ -138,5 +141,5 @@ This is ***open source*** product. Kindly check LICENSE.md file for more informn
 
 Please contact [support@sb-components.co.uk](support@sb-components.co.uk) for technical support.
 <p align="center">
-  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=350">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
 </p>
