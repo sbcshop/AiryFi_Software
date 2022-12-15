@@ -115,3 +115,28 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 * To send your sensor data on any cloud plateform(Thingspeak) upload the code of directory "Air-monitoring Data On Thingspeak". You can also choose any of your choice cloud plateform to send your sensor data(necessary changes will require).  
 
 
+## Documentation
+
+* [IoTFi-2G Hardware](https://github.com/sbcshop/IoTFi_2G_Hardware)
+* [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+## Related Products
+
+* [IoTFi-4G](https://shop.sb-components.co.uk/products/iotfi-2g-4g-iot-board-based-on-rp2040?variant=40430002307155) - Our other GSM Based product in 4G version
+
+ ![IoTFi-4G](https://cdn.shopify.com/s/files/1/1217/2104/products/Untitled-2.png?v=1669123121&width=400)
+
+
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
+
+Please contact [support@sb-components.co.uk](support@sb-components.co.uk) for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=350">
+</p>
