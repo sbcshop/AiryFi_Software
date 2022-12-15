@@ -1,6 +1,6 @@
 # AiryFi
 
-<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/AiryFI.png" />
+<img src ="https://cdn.shopify.com/s/files/1/1217/2104/products/03_3ec113af-3d61-4b44-b423-2ec275826699.png?v=1669110536&width=600" />
 
 AiryFi is an open-source portable sensor that can deliver the quantity and mass of suspended particulates. It includes a PMSA003 sensor that uses a digital output with a 5V working voltage to offer information on suspended particulate matter (PM1.0, PM2.5, and PM10) in the air per unit volume. 
 
@@ -56,7 +56,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 * During uploading the latest firmware to NodeMCU please make sure that sensor selection jumper is open as shown in below image
 
-<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121130128.jpg" />
+<img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121130128.jpg" /> 
 
 * After uploading firmware, connect the sensor selection jumper as it is for successful reading of sensor on running code in our AiryfI board
 
