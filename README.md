@@ -115,6 +115,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 * For Display the sensors data simply on LCD without internet, upload the code of directory "Air-monitoring Data On LCD".
 * To see your sensor data on your smartphone open the directory "Air-monitoring Data on Smartphone" and setup your device according to provided instruction in it.
 * To send your sensor data on any cloud plateform(Thingspeak) upload the code of directory "Air-monitoring Data On Thingspeak". You can also choose any of your choice cloud plateform to send your sensor data(necessary changes will require).  
+* "Battery Monitoring" code will show battery voltage and a worning when battery of this board gets discharge 
 
 
 ## Documentations
