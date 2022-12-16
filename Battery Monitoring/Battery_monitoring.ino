@@ -1,3 +1,6 @@
+//This is the example code of checking battery level and discharge worning on LCD
+//Develop by sb-components
+
 #include <ESP8266WiFi.h>
 #include <Arduino_GFX_Library.h>
 
