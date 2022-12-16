@@ -119,7 +119,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 
 ## Documentations
 
-* [AiryFi Software](https://github.com/sbcshop/AiryFi_Software)
+* [AiryFi Hardware](https://github.com/sbcshop/AiryFi_Hardware)
 * [Getting Started with NodeMCU](http://www.nodemcu.com/index_en.html)
 * [NodeMCU Github Examples](https://github.com/orgs/nodemcu/repositories)
 * [NodeMCU Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
