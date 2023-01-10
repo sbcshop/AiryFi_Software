@@ -33,7 +33,9 @@ For charging and communication with the AiryFy board
 ### CP2102
 The CP2102/9 is a highly-integrated USB-to-UART Bridge Controller providing a simple solution for updating RS232 designs to USB using a minimum of components and PCB space. It is a driver IC for interfacing between USB to our ESP8266.
 ### Sensor Selection Jumper
-This jumper is provided to interfacing  between ESP and PMS sensor for displaying PMS sensor data
+
+This jumper is provided to interfacing  between ESP and PMS sensor for getting PMS sensor data. Please make sure during the code uploading in AiryFi board, this jumper  removed.
+
 ### Reset and Flash Button
 Reset button is provided for resetting ESP8266 and so this board. Flash button is for flashing or updating firmware in ESP8266 chip.
 ### Battery Connector and ON/OFF
