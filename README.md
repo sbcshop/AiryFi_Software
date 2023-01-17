@@ -30,8 +30,11 @@ In this device by using ESP8266-12E module we can use this board as server or as
 
 ### USB Type-C Port
 For charging and communication with the AiryFy board
+
 ### CP2102
-The CP2102/9 is a highly-integrated USB-to-UART Bridge Controller providing a simple solution for updating RS232 designs to USB using a minimum of components and PCB space. It is a driver IC for interfacing between USB to our ESP8266.
+The CP2102/9 is a highly-integrated USB-to-UART Bridge Controller providing a simple solution for updating RS232 designs to USB using a minimum of components and PCB space. It is a driver IC for interfacing between USB to our ESP8266.Install driver form  below link  
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
 ### Sensor Selection Jumper
 
 This jumper is provided to interfacing  between ESP and PMS sensor for getting PMS sensor data. Please make sure during the code uploading in AiryFi board, this jumper  removed.
