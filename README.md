@@ -68,6 +68,9 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
 <img src ="https://github.com/sbcshop/AiryFi/blob/main/images/IMG20221121142725.jpg" />
 
 ### Steps To Setup the AiryFi
+
+***First thing first,*** install the CP2102 usb driver to detect our board as a usb device in your system. We have provided a ***Zip file(pololu-cp2102-windows-220616.rar)*** of it in this Repository. After downloading and extracting the zip file locate ***setup file*** compatible with your system and inatall this driver. You can also visit to below link for download the cp2102 drver for your system; ***https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads*** and download the CP210x VCP based on your operating system and install it.
+
 1. Download and install Arduino IDE 
    https://www.arduino.cc/en/software
 
