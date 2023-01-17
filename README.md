@@ -102,6 +102,15 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
      
  5. Install all libraries which is mention below
  
+ * Arduino_GFX_Library.h
+ * ESP8266WiFi.h
+ * PMS.h
+ * Adafruit_Sensor.h
+ * Adafruit_BME280.h
+ * Wire.h
+ * SPI.h
+ 
+ 
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img13.JPG" />
     
     <img src= "https://github.com/sbcshop/RoundyFi/blob/main/images/img14.JPG" />
