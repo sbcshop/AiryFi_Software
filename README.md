@@ -108,7 +108,7 @@ ON/OFF switch is used for toggle ON and OFF this board according to our need to 
      
  5. Install all libraries which is mention below
  
- * Arduino_GFX_Library.h
+ * Arduino_GFX_Library.h (Install Arduino_GFX_Library.h version 1.3.1 other version has some issue)
  * ESP8266WiFi.h
  * PMS.h
  * Adafruit_Sensor.h
